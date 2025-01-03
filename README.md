@@ -1,3 +1,7 @@
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Introducao_Engenharia_Dados/blob/main/README.md">Introdução a Engenharia de Dados</a></p>
+</div> 
+
 # SQL e Python para Engenharia de Dados
 
 Investir em aprender SQL e Python é uma excelente escolha para quem deseja trabalhar com engenharia de dados. Esses dois são fundamentais em praticamente todos os cenários de processamento e análise de dados. Esses dois são fundamentais em praticamente todos os cenários de processamento e análise de dados, sejam em plataformas em nuvem (AWS, Gloogle Cloud, Microsoft Azure) ou em ferramentas open-source. Vamos detalhar por isso é uma ótima escolha:
